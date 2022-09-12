@@ -12,4 +12,5 @@ for (a = 'a'; a <= 'z' ; a++)
 { continue; }
 putchar(a); }
 putchar('\n');
-return (0); }
+return (0);
+}
