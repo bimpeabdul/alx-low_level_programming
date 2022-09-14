@@ -3,7 +3,8 @@
 /**
 *print_alphabet - Alphabet in lowercase
 *
-* Return:0
+*Return:0
+*
 */
 void print_alphabet(void)
 { char r;
